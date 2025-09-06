@@ -31,14 +31,3 @@ CREATE TABLE employees (
   salary DECIMAL(10,2)
 );
 
-Backend
-
-cd backend
-npm install
-node server.js
-
-Frontend
-
-cd frontend
-npm install
-npm start
